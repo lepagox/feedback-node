@@ -1,0 +1,4 @@
+# we may not have this but just in case we wouldn't want to copy it with COPY . .
+node_modules
+Dockerfile
+.git
